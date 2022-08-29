@@ -94,12 +94,12 @@
 				7CC06C6528B3721300FBE410 /* LaunchScreen.storyboard */,
 				7CC06C6828B3721300FBE410 /* Info.plist */,
 				7CC06D7628B3A51C00FBE410 /* GoogleService-Info.plist */,
-				7CC06D5928B3861800FBE410 /* Helpers */,
+				7CC06D5928B3861800FBE410 /* UIHelpers */,
 			);
 			path = UpGrade;
 			sourceTree = "<group>";
 		};
-		7CC06D5928B3861800FBE410 /* Helpers */ = {
+		7CC06D5928B3861800FBE410 /* UIHelpers */ = {
 			isa = PBXGroup;
 			children = (
 				7CC06D5A28B3861800FBE410 /* CustomBlurView.swift */,
@@ -108,7 +108,7 @@
 				7CC06D5D28B3861800FBE410 /* CustomImageView.swift */,
 				7CC06D5E28B3861800FBE410 /* CustomTabBarController.swift */,
 			);
-			path = Helpers;
+			path = UIHelpers;
 			sourceTree = "<group>";
 		};
 		7CC06D7328B38B4000FBE410 /* View Controllers */ = {
